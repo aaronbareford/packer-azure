@@ -9,7 +9,7 @@ import (
 	"fmt"
 	"github.com/mitchellh/packer/common"
 	"github.com/mitchellh/packer/helper/config"
-	"github.com/mitchellh/packer/packer"
+	"github.com/aaronbareford/packer/packer"
 	"github.com/pborman/uuid"
 	"io/ioutil"
 	"log"

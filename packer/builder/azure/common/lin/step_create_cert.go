@@ -18,7 +18,7 @@ import (
 	"github.com/Azure/packer-azure/packer/builder/azure/common/constants"
 
 	"github.com/mitchellh/multistep"
-	"github.com/mitchellh/packer/packer"
+	"github.com/aaronbareford/packer/packer"
 )
 
 type StepCreateCert struct {

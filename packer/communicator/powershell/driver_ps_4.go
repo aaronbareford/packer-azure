@@ -6,7 +6,7 @@ package powershell
 import (
 	"bytes"
 	"fmt"
-	"github.com/mitchellh/packer/packer"
+	"github.com/aaronbareford/packer/packer"
 	"log"
 	"os/exec"
 	"runtime"

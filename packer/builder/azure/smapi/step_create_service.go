@@ -11,7 +11,7 @@ import (
 	"github.com/Azure/packer-azure/packer/builder/azure/smapi/retry"
 
 	"github.com/mitchellh/multistep"
-	"github.com/mitchellh/packer/packer"
+	"github.com/aaronbareford/packer/packer"
 
 	"github.com/Azure/azure-sdk-for-go/management"
 	"github.com/Azure/azure-sdk-for-go/management/hostedservice"

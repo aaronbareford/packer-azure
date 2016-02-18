@@ -3,7 +3,7 @@
 
 package powershell
 
-import "github.com/mitchellh/packer/packer"
+import "github.com/aaronbareford/packer/packer"
 
 // A driver is able to talk to PowerShell Azure and perform certain
 // operations with it. Some of the operations on here may seem overly

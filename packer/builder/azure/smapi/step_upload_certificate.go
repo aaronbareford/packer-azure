@@ -13,7 +13,7 @@ import (
 	"github.com/Azure/azure-sdk-for-go/management/hostedservice"
 
 	"github.com/mitchellh/multistep"
-	"github.com/mitchellh/packer/packer"
+	"github.com/aaronbareford/packer/packer"
 )
 
 type StepUploadCertificate struct {
