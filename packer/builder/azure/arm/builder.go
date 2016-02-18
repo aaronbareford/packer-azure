@@ -8,8 +8,8 @@ import (
 	"fmt"
 	"log"
 
-	"github.com/Azure/packer-azure/packer/builder/azure/common/constants"
-	"github.com/Azure/packer-azure/packer/builder/azure/common/lin"
+	"github.com/aaronbareford/packer-azure/packer/builder/azure/common/constants"
+	"github.com/aaronbareford/packer-azure/packer/builder/azure/common/lin"
 
 	"github.com/Azure/go-autorest/autorest/azure"
 

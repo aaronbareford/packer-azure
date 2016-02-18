@@ -4,7 +4,7 @@
 package main
 
 import (
-	"github.com/Azure/packer-azure/packer/builder/azure/smapi"
+	"github.com/aaronbareford/packer-azure/packer/builder/azure/smapi"
 	"github.com/aaronbareford/packer/packer/plugin"
 )
 

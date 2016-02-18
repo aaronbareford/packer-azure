@@ -16,8 +16,8 @@ import (
 
 	"github.com/pborman/uuid"
 
-	"github.com/Azure/packer-azure/packer/builder/azure/common"
-	"github.com/Azure/packer-azure/packer/builder/azure/smapi/retry"
+	"github.com/aaronbareford/packer-azure/packer/builder/azure/common"
+	"github.com/aaronbareford/packer-azure/packer/builder/azure/smapi/retry"
 
 	"github.com/Azure/azure-sdk-for-go/management"
 	vm "github.com/Azure/azure-sdk-for-go/management/virtualmachine"

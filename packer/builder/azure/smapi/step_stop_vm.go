@@ -6,8 +6,8 @@ package azure
 import (
 	"fmt"
 
-	"github.com/Azure/packer-azure/packer/builder/azure/common/constants"
-	"github.com/Azure/packer-azure/packer/builder/azure/smapi/retry"
+	"github.com/aaronbareford/packer-azure/packer/builder/azure/common/constants"
+	"github.com/aaronbareford/packer-azure/packer/builder/azure/smapi/retry"
 
 	"github.com/mitchellh/multistep"
 	"github.com/aaronbareford/packer/packer"

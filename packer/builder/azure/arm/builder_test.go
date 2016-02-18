@@ -4,7 +4,7 @@
 package arm
 
 import (
-	"github.com/Azure/packer-azure/packer/builder/azure/common/constants"
+	"github.com/aaronbareford/packer-azure/packer/builder/azure/common/constants"
 	"testing"
 )
 
